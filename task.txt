@@ -1,0 +1,14 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+Ans:-
+HTTP 1.1 diffrence between HTTP 2
+HTTP 2 better then HTTP 1.1  it,s transper Protocol,
+cloudfare serves send HTTP response with all documents and videos
+HTTP 2 much better than HTTP1.1 speed and more efficient
+HTTP1.1 0ne small error all pages no Load but HTTP 2 is updated so issues corrected
+
+
+Write a blog about objects and its internal representation in Javascrip
+Ans:-
+Object write in curley bracket
+key:value
+Number ,String ,Boolean ,null Undifined 
